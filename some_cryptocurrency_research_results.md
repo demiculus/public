@@ -19,7 +19,7 @@ Conclusion: They are basically giving ICO/investment advice & helping people do 
 
 Since they are updating & publishing more stuff their price can increase in the short term, but I see no long term value for this coin.
 
-##atlant: 0
+## atlant: 0
 
 TLDR: Real estate blockchain (make ICOs for real estates & decentralized airbnb)                                                                                                                  
 - ERC20 token                                                                                                                                                                                     
@@ -37,7 +37,7 @@ TLDR: Real estate blockchain (make ICOs for real estates & decentralized airbnb)
 - Emailed Maxim(https://github.com/xlab) who implemented their node: https://github.com/AtlantPlatform/atlant-go . He said that he is a freelancer who is working on atlant and another project at the time. And his hourly rate is $40. Hiring freelancers for implementation is a big red flag.
 
 
-##aigang: -1
+## aigang: -1
 
 TLDR: Insurance Protocol
 - Built on top of ethereum
@@ -48,7 +48,7 @@ TLDR: Insurance Protocol
 
 Conclusion: They look like they have just did ICO, took money and did nothing else. 
 
-##nav-coin: 0
+## nav-coin: 0
 
 TLDR: POS version of Bitcoin
 - Came out in 2014
@@ -59,7 +59,7 @@ TLDR: POS version of Bitcoin
 
 Overall I don't see anything unique in this coin
 
-##Mintcoin: -1
+## Mintcoin: -1
 
 TLDR: One of the first POS projects in 2014
 - Fork of Novacoin which is fork of Bitcoin
@@ -73,7 +73,7 @@ Conclusion:
 If Shane gets more people working on this coin, they can get the coin up 5-10x from where it is in to the top 300, 200. 
 But since the tech is old and doesn't provide a good innovation they will not be able to penaterate the top coins ever. Thus shit coin.
 
-##Golos: 1
+## Golos: 1
 
 TLDR: Steemit for russia
 - Code forked from steemit
@@ -92,7 +92,7 @@ Questions:
 1. What is the projected growth of the site?
 2. What is the projected growth of the coin?
 
-##Chronobank: -1
+## Chronobank: -1
 
 TLDR: Coin used to hire workers for freelance/labor jobs
 - ERC20 token
@@ -108,7 +108,7 @@ TLDR: Coin used to hire workers for freelance/labor jobs
 
 Conclusion: Shitcoin, but they've started marketing more agressively the past month thus there can be an increase in the price if they succeed. If they don't it'll be a waste. So it would only be a gamble according to their marketing skills.
 
-##Holo: 3
+## Holo: 3
 
 TLDR: Torrent for application hosting
 - Not a blockchain but a DHT like bittorent
@@ -135,7 +135,7 @@ Questions:
 3. They say holo is not a token, not a coin but a mutual credit. I didn't understand the difference. https://www.youtube.com/watch?v=hn7aWuerBB8
 4. - ""App Providers go through real world identity verification when they sign their agreements for hosting apps on Holo."" how is it decentralized? (they also mention that it will start semi-centralized and gradually holo will stop existing and holochain will become completely decentralized.
 
-##Aeternity: -1
+## Aeternity: -1
 
 - They aim to make a Global Oracle Machine
 - Each account needs to be payed in order to keep open thus incentivices deleting accounts
@@ -167,7 +167,7 @@ else: dontInvest()
 
 I think the team is doing an okay job at marketing. They've pumped the coin to top 30 and have a unique selling point so the coin could go much higher before people realize its tech doesn't work.
 
-##Mithril: 0
+## Mithril: 0
 
 - Founder built video streaming company(17 media) in 2015 with $33M in funding. 
 - 17 Medias app has 100k stars on google play. (periscope 500k)
@@ -192,7 +192,7 @@ I think the team is doing an okay job at marketing. They've pumped the coin to t
 - It is an appcoin not protocol
 - Merchants have no incentive to use Mith over any other amazing coin
 
-##Skycoin: 4
+## Skycoin: 4
 
 tl;dr a network of VPNs on top of internet. Earn/spend money based on used bandwidth.
 
@@ -213,33 +213,33 @@ tl;dr a network of VPNs on top of internet. Earn/spend money based on used bandw
 - Has Lead Dev from Ethereum and Core devs from Bitcoin (this needs validation)
 - Synth (CEO) is exteremely smart and troll
 
-##Stellar: 4
+## Stellar: 4
 
 TLDLR: Quick reliable cheap payments
--Protocol between different currencies
--ICO platform
--Has decentralized exchange
--Transactions in 2-5 seconds
--Can convert all currencies, can integrate with existing banking systems & crypto
--Wants to distribute/airdrop XLM to nonprofits.
--Has 1% inflation each year.
--Their chief scientist who wrote white paper seems like a genius. Has more than 5 papers yearly since 2001.
--They are opening their governence and numbers, tokens to everyone.
--Stellar group will serve for lifetime. Jed, Patrick & Professor.
--Has allstar directors and advisors.
--Stellar executive director left in 2016 and it seems no one replaced her since.
--Has a new CTO last 6 months.
--Most team graduated from shit universities and had no experience before Stellar.
--I didn't see the team answer anything in the community anytime soon.
+- Protocol between different currencies
+- ICO platform
+- Has decentralized exchange
+- Transactions in 2-5 seconds
+- Can convert all currencies, can integrate with existing banking systems & crypto
+- Wants to distribute/airdrop XLM to nonprofits.
+- Has 1% inflation each year.
+- Their chief scientist who wrote white paper seems like a genius. Has more than 5 papers yearly since 2001.
+- They are opening their governence and numbers, tokens to everyone.
+- Stellar group will serve for lifetime. Jed, Patrick & Professor.
+- Has allstar directors and advisors.
+- Stellar executive director left in 2016 and it seems no one replaced her since.
+- Has a new CTO last 6 months.
+- Most team graduated from shit universities and had no experience before Stellar.
+- I didn't see the team answer anything in the community anytime soon.
 
-##Pascalcoin: -1
+## Pascalcoin: -1
 
 - It's an R&D coin
 - It will never have really use case. 
 - The only thing they do is trim blockchain data with cost of total 2^32 account limit
 - Written in Pascal...
 
-##Holo: 2
+## Holo: 2
 
 - Targeted 1000x potential ($300B market). Might target more as well.
 - It’s not a cryptocurrency. It’s signature signed bittorent (DHT). 
@@ -274,25 +274,25 @@ Questions:
 - The devs are big on ""immune"" systems and claim they can kick out any bad actors from the network if they wanted. At the first sign of trouble it will collapse no doubt.
 - There are several trivial denial of service attacks on the network too, wtf; there is not way to rate limit network activity to a level where validation can actual occur (even in theory).
 
-##Nimiq: 1
+## Nimiq: 1
 
 TLDR: Simple web based transactions
--Mining and transactions on browser and mobile.
--Coded in javascript.
--Targeted for mainstream audience who doesn't understand blockchain and wallets.
--Has mini wallets that are 1MB size.
--PoW algorithm.
--Tech seems like bitcoin in js.
--60 second block time is slow.
--Why should this be better than Stellar?
--Founder has strong open source projects.
--One of founder cryptography PhD researcher with publications.
--Another founder PhD in economics.
--They are definitely working on the same house and vlogging their experience.
--Founders old open source projects are now dead.
--Most team members haven't updated their presence that they are working on nimiq.
+- Mining and transactions on browser and mobile.
+- Coded in javascript.
+- Targeted for mainstream audience who doesn't understand blockchain and wallets.
+- Has mini wallets that are 1MB size.
+- PoW algorithm.
+- Tech seems like bitcoin in js.
+- 60 second block time is slow.
+- Why should this be better than Stellar?
+- Founder has strong open source projects.
+- One of founder cryptography PhD researcher with publications.
+- Another founder PhD in economics.
+- They are definitely working on the same house and vlogging their experience.
+- Founders old open source projects are now dead.
+- Most team members haven't updated their presence that they are working on nimiq.
 
-##Wagerr: 0
+## Wagerr: 0
 
 tl;dr Betting platform with oracles
 
@@ -304,63 +304,63 @@ tl;dr Betting platform with oracles
 - Their competitors are every Oracle coin (Augur, aethernity etc.)
 - They have ""F*ck Yeah"" written in their website banner. Really unprofessional. They sound like a bunch of kids trying to earn money doing ICOs
 
-##Aeternity: 1
+## Aeternity: 1
 
 TLDR: smart contracts interfacing with real world data
 
--Yanislav (CEO) is one of the earliest ethereum developers and core eth team member (he calls himself even “godfather of ethereum” https://medium.com/@yanislav/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5
--PoW+PoS hybrid consensus algorithm will use Cuckoo Cycle as PoW which is energy efficient and runs on RAM. They claim even smartphones can mine ae in the future. Delegated voting will be used for PoS governance.
--This blockchain will use “oracles” as tamper proof data bridges which contracts can act upon. Contracts can pull real world data like the price of real world assets(ie gold), election results, weather conditions etc.
--State channels are offchain solutions, not a real essential breaktrough though but it’s important for businesses.
--Erlang has been used in aeternity’s architecture.
--AE is still ERC20 now which will be swapped to its native infrastracture coins, its ICO had two phases (april and june 2017). First phase price was $0.042 and second was $0.28 per token. (I contributed in both phases)
--Long wait for token distribution, lots of corporate tragedy (two CTOs have been fired, first one Zack is also one of the creators of aeternity’s whitepaper, and he is one of the earliest characters in cryptosphere but he acted very unprofessional on the process IMHO- childish hack threats on medium posts etc, he’s now making his own project called AMOVEO)
--It has a high level, OCaml based scripting language called Sophia which can be formally verified. It has also a simpler language called Varna. Both will support contracts and oracles.
--It will have its own dapps called aepps, not sure how much developer support can it take. Their team is quite competent indeed. (They have few PhD erlang devs)
--Euro-centered project, no asian hype, at least for now.
--Despite all of its corporate tragedy ae price has done well since ICO, I believe Yani’s strong ethereum connections are responsible in that.
--They must be in an independent security audit these days, after that mainnet release and token swap will be expected.
+- Yanislav (CEO) is one of the earliest ethereum developers and core eth team member (he calls himself even “godfather of ethereum” https://medium.com/@yanislav/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5
+- PoW+PoS hybrid consensus algorithm will use Cuckoo Cycle as PoW which is energy efficient and runs on RAM. They claim even smartphones can mine ae in the future. Delegated voting will be used for PoS governance.
+- This blockchain will use “oracles” as tamper proof data bridges which contracts can act upon. Contracts can pull real world data like the price of real world assets(ie gold), election results, weather conditions etc.
+- State channels are offchain solutions, not a real essential breaktrough though but it’s important for businesses.
+- Erlang has been used in aeternity’s architecture.
+- AE is still ERC20 now which will be swapped to its native infrastracture coins, its ICO had two phases (april and june 2017). First phase price was $0.042 and second was $0.28 per token. (I contributed in both phases)
+- Long wait for token distribution, lots of corporate tragedy (two CTOs have been fired, first one Zack is also one of the creators of aeternity’s whitepaper, and he is one of the earliest characters in cryptosphere but he acted very unprofessional on the process IMHO- childish hack threats on medium posts etc, he’s now making his own project called AMOVEO)
+- It has a high level, OCaml based scripting language called Sophia which can be formally verified. It has also a simpler language called Varna. Both will support contracts and oracles.
+- It will have its own dapps called aepps, not sure how much developer support can it take. Their team is quite competent indeed. (They have few PhD erlang devs)
+- Euro-centered project, no asian hype, at least for now.
+- Despite all of its corporate tragedy ae price has done well since ICO, I believe Yani’s strong ethereum connections are responsible in that.
+- They must be in an independent security audit these days, after that mainnet release and token swap will be expected.
 
 Conclusion:
 
 The only real competitor of AE will be its oldest CTO’s solo project Amoveo which lacks a market existence, for now. 
 
-##Zilliqa: 2
+## Zilliqa: 2
 
 TLDR: A secure sharding adaptation in blockchain
 
--Zilliqa leverages PoW for sybil attacks, establishing identities and performing sharding. However it achieves consensus through practical BFT in each shard.
--The most unique speciality of Zilliqa is linear scalability which means it processes more tps as more mining nodes join the network. It’s the opposite in almost every blockchain project.
--Very qualified team with a strong academic background. (one of my highschool friends took a class with their CSA Prateek Saxona at Berkeley in 2009 and he calls him pretty smart guy) Amrit Kumar is also a well known name in crypto-academic circles
--Zilliqa is developing a non Turing complete, I/O Automata based smart contract language called Scilla, they claim that not all apps require a Turing complete language and it becomes possible to prove interesting safety and liveness properties about a non-Turing complete program such as the funds never get locked, etc. Interesting approach IMHO
--The biggest critic comes from eth devs and they say that there is no state sharding in Zilliqa (Ethereum is planning to use state sharding in the future) However Zil’s team’s conclusion was that there still isn’t a state sharding scheme that is secure enough, but they are open for future implementations.
--They have Bluzelle and Genaro partnerships (Distributed storage) NEO also invested in Zilliqa
--Lately Indonesian bank BNI said that they will use a private blockchain system called Anquan which is powered by Zilliqa for remittances and trade finance.
--Lack of strong marketing, too much(asian level) nerdy team. Anyways their community is getting stronger everyday.
+- Zilliqa leverages PoW for sybil attacks, establishing identities and performing sharding. However it achieves consensus through practical BFT in each shard.
+- The most unique speciality of Zilliqa is linear scalability which means it processes more tps as more mining nodes join the network. It’s the opposite in almost every blockchain project.
+- Very qualified team with a strong academic background. (one of my highschool friends took a class with their CSA Prateek Saxona at Berkeley in 2009 and he calls him pretty smart guy) Amrit Kumar is also a well known name in crypto-academic circles
+- Zilliqa is developing a non Turing complete, I/O Automata based smart contract language called Scilla, they claim that not all apps require a Turing complete language and it becomes possible to prove interesting safety and liveness properties about a non-Turing complete program such as the funds never get locked, etc. Interesting approach IMHO
+- The biggest critic comes from eth devs and they say that there is no state sharding in Zilliqa (Ethereum is planning to use state sharding in the future) However Zil’s team’s conclusion was that there still isn’t a state sharding scheme that is secure enough, but they are open for future implementations.
+- They have Bluzelle and Genaro partnerships (Distributed storage) NEO also invested in Zilliqa
+- Lately Indonesian bank BNI said that they will use a private blockchain system called Anquan which is powered by Zilliqa for remittances and trade finance.
+- Lack of strong marketing, too much(asian level) nerdy team. Anyways their community is getting stronger everyday.
 
 Conclusion
 
 Zilliqa may be a real permissionless high throughput blockchain solution with its unique linear scalability. I expect an ADA like run from it when its mainnet release approaches (sometime in q3)  %5-10 of all portfolio can be invested imho (mine is %11)
 
-##Cardano: 4
+## Cardano: 4
 
 TLDR: Programmable updatable blockchain
--Seems like improvement on Ethereum with scientific philosophy and research input.
+- Seems like improvement on Ethereum with scientific philosophy and research input.
 -Uses purely functional Haskell, this makes code harder to write but very bug free, ideal for blockchains.
--First peer reviewed mathmatically proven PoS on large scale called Ouroboros.
--System can be upgraded with soft forks. 
--Aimed to use in academy, government, companies. 
--Can add new layers and update the blockchain.
--Can possibly kill Ethereum and take its place.
--Minting coins, should need to be checked, is it minted to the company or token holders?
--Chief scientist has more than 100 papers related to cryptography since 2001. At least 5 papers a year, lately 10+ papers a year. 
--Why part in their website shows a lot of work and incredible openness to the community.
--Roadmap in their web page shows incredible openness with percentage completeness. 
--Team also works to maintain Ethereum Classic because forking is against blockchain philoshopy.
--Does weekly reports.
--Founder ex-CEO of Ethereum & ex-CEO of Bitshares.
--Has an army of PhDs.
--Seems to have an investment firm in the holding companies.
+- First peer reviewed mathmatically proven PoS on large scale called Ouroboros.
+- System can be upgraded with soft forks. 
+- Aimed to use in academy, government, companies. 
+- Can add new layers and update the blockchain.
+- Can possibly kill Ethereum and take its place.
+- Minting coins, should need to be checked, is it minted to the company or token holders?
+- Chief scientist has more than 100 papers related to cryptography since 2001. At least 5 papers a year, lately 10+ papers a year. 
+- Why part in their website shows a lot of work and incredible openness to the community.
+- Roadmap in their web page shows incredible openness with percentage completeness. 
+- Team also works to maintain Ethereum Classic because forking is against blockchain philoshopy.
+- Does weekly reports.
+- Founder ex-CEO of Ethereum & ex-CEO of Bitshares.
+- Has an army of PhDs.
+- Seems to have an investment firm in the holding companies.
 
 
 
