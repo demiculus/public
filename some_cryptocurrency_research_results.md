@@ -1,12 +1,12 @@
 Coins are ranked from -1 to 4
-4 = Definitely buy this coin.
-3 = This is one of the top coins I’ve seen.
-2 = You should definitely check this out.
-1 = This coin is worth a look.
-0 = I’m neutral about this coin.
--1 = Shit coin.
+- 4 = Definitely buy this coin.
+- 3 = This is one of the top coins I’ve seen.
+- 2 = You should definitely check this out.
+- 1 = This coin is worth a look.
+- 0 = I’m neutral about this coin.
+- -1 = Shit coin.
 
-##Crowdcoin: -1
+## Crowdcoin: -1
 
 TLDR: Building an ecosystem to learn/invest/news/exchange/fund cryptos.
 - They are pretty active for a coin their size
