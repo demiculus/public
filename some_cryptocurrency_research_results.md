@@ -1,8 +1,5 @@
-This file has some output of the coins we have researched. The research system can be seen here: https://youtu.be/rOXFg1QqJRU
+If you want to access the full list of our research watch the [video](https://youtu.be/rOXFg1QqJRU) & read the [FAQ](https://github.com/demiculus/public/blob/master/cryptocurrency_research_FAQ.md). Feel free to message me if you have any questions. Telegram: demiculus
 
-FAQ: https://github.com/demiculus/public/blob/master/cryptocurrency_research_FAQ.md
-
-If you have any questions feel free to message me. Telegram: demiculus
 
 Coins are ranked from -1 to 4
 - 4 = Definitely buy this coin.
@@ -251,9 +248,11 @@ TLDLR: Quick reliable cheap payments
 - It’s not a cryptocurrency. It’s signature signed bittorent (DHT). 
 - They plan to make dApps without cryptocurrencies
 - It’s not ideal to make cryptocurrencies or ICOs in Holo.
-- Holofuel is a digital debit system. Might not work properly?  - Value of Holofuel will diminish in long term. It only has value in short to medium term.
+- Holofuel is a digital debit system. Might not work properly? 
+- Value of Holofuel will diminish in long term. It only has value in short to medium term.
 - Team looks smart. CEO is definitely smart. 
-- The community is smart and healthy (mattermost) - They are doing something different than everyone else
+- The community is smart and healthy (mattermost)
+- They are doing something different than everyone else
 - Their code is actually working 
 - They have Holo Box a hardware to host dApps. It’s crowdfunded on Indiegogo rather than venture capital.
 - %1 Holo transaction fees go toward Holochain.
@@ -263,13 +262,13 @@ TLDLR: Quick reliable cheap payments
 - Holo Fuel value will diminish in long term because it’s backed by compute power. Compute power gets cheaper everyday. In short to medium term the price will probably jump because they started really cheap.
 
 Questions: 
- - Holo Organisation owns Holo Fuel and it seems more like bank than a decentralised currency.
+- Holo Organisation owns Holo Fuel and it seems more like bank than a decentralised currency.
 - After ICO tokens are swapped with Holo Fuel, is it possible to cash out Holo Fuel?
 
- Synth:
- - I did not do peer-to-peer apps for coins like holochain is doing, because its pointless; bitorrent works already, any overlay you put on top of it will just be slower. You have to be able to get people to switch what they are doing to use the new thing. Then you have to build on the platform from there.
-- I have already taken all of the core innovations in holochain and put them in the Skycoin development roadmap. They have a few good ideas. 
-- I cannot figure out purpose of holochains crypto currency. They do not seem to need it at all 
+Synth:
+- I did not do peer-to-peer apps for coins like holochain is doing, because its pointless; bitorrent works already, any overlay you put on top of it will just be slower. You have to be able to get people to switch what they are doing to use the new thing. Then you have to build on the platform from there.
+- I have already taken all of the core innovations in holochain and put them in the Skycoin development roadmap. They have a few good ideas.
+- I cannot figure out purpose of holochains crypto currency. They do not seem to need it at all
 - There is no solution to the consensus problem at all. Anywhere in the paper. They are trying to justify the fact that they have no automatic way of doing consensus. They have no automatic conflict resolution procedure in the network.
 - Anyone can write any data or any balance they want onto the network and say they have as many holofuel as they want and no one can cap the number of coins that are in existence. There is no method to mediate between conflicts between different users.
 - ""Hosts will be required to register if they want to redeem credits for outside currencies through reserve account"". The coin is completely centralized
