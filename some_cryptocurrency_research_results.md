@@ -1,3 +1,9 @@
+This file has some output of the coins we have researched. The research system can be seen here: https://youtu.be/rOXFg1QqJRU
+
+FAQ: https://github.com/demiculus/public/blob/master/cryptocurrency_research_FAQ.md
+
+If you have any questions feel free to message me. Telegram: demiculus
+
 Coins are ranked from -1 to 4
 - 4 = Definitely buy this coin.
 - 3 = This is one of the top coins I’ve seen.
