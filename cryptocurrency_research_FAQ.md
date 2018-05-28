@@ -8,7 +8,7 @@ This file is about our research system which can be seen here: https://www.youtu
 |How can someone beome a researcher?|	They can be referred or they can apply. Demi should be contacted. They will need to go through a 2 week trial period.|
 |What are the qualifications you seek in a researcher?|- They should already be researching coins on their own.<br>- Their english level should be advanced<br>- They have a past record of making good investment decisions.|
 |How is the researcher trial period done?|They will research coins, if they fill their quota & are able to analyze coins correctly for 2 weeks they will be accepted as a full fledged researcher.|
-|What is researcher quota?|The minimum amount of coin we want researchers to check in detail is 2 per week. Note that these coins should be the ones the algorithm has provided not requested coins.|
+|What is researcher quota?|The minimum amount of coin we want researchers to check in detail is 1 per week. Note that these coins should be the ones the algorithm has provided not requested coins.|
 |Is there a private telegram/discord group for researchers?|Yes, if the researcher fills their quota the first 2 weeks they will be invited.|
 |What is weekly coin meetings & how to attend them?|We hold weekly meetings about the coins we have researched that week. It will be hosted in our hacker house. Those who have filled their quota for 2 weeks are invited.|
 |How can I see old coin decisions & notes?|If you be valuable to our community for 1 month we will share our complete historical data with you.|
