@@ -9,9 +9,9 @@
   - Monero - Easy to understand, how maximum privacy works. All privacy coins are a fork of eachother
   - Stellar - BFT system. It is the fastest and the best out there.
   - Nebulas - Uses dPoS. Understanding is really hard and needs to be dived deep.
-  This explains that it is not google but an appstore. https://www.reddit.com/r/nebulas/comments/7rwllx/nebulas_technical_white_paper_review_january_20/ "
+  This reddit post explains that it is not google but an appstore: https://www.reddit.com/r/nebulas/comments/7rwllx/nebulas_technical_white_paper_review_january_20/ "
 
-4. Added this to FAQ: What kind of coins are we looking for? We are looking for legit coins. Not pump & dumps or short term coins. Your points should be given to the long term success of the coin.
+4. Added this to FAQ: What kind of coins are we looking for? We are looking for legit coins. Not pump & dumps or short term coins. Your points should be given according to the long term success of the coin.
 
 5. Weekly meetings in FAQ has been changed from
 
@@ -21,4 +21,10 @@
   
   What coin meetings & how to attend them?	We hold meetings whenever 1 or more good coins come out that week. Meeting is done through discord. Those who have filled their quota for 2 weeks are invited.
   
-6. 
+6. We've finished scraping icos and have created a tab for their points: http://prntscr.com/jptmns. 
+
+7. The main list is generated from the top coins in 3 lists
+  - Points Relative
+  - Points Absolute
+  - ICO
+thus you can now check out ICOs from our list: http://prntscr.com/jptmwa
